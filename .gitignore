@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==========================
+# EduSmart BI Project
+# ==========================
+
+# IDE
+.vscode/
+.idea/
+
+# Logs projet
+logs/
+
+# Données générées volumineuses
+data/
+datasets/
+*.parquet
+
+# Dumps bases de données
+*.sql.gz
+
+# Fichiers temporaires
+tmp/
+temp/
+
+# Docker volumes
+docker-volumes/
