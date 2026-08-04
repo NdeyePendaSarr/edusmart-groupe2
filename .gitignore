@@ -239,3 +239,32 @@ temp/
 
 # Docker volumes
 docker-volumes/
+
+
+# ==========================
+# Donnees volumineuses (a partager via Drive, pas via Git)
+# ==========================
+
+# Fichiers MongoDB
+*.jsonl
+*.bson
+*.archive
+
+# Dossiers de donnees pour toutes les sources
+sources/*/data/input/*
+sources/*/data/staging/*
+sources/*/data/raw/*
+sources/*/backup/*
+
+# On garde les .gitkeep pour preserver la structure des dossiers
+!sources/*/data/input/.gitkeep
+!sources/*/data/staging/.gitkeep
+!sources/*/data/raw/.gitkeep
+!sources/*/backup/.gitkeep
+
+# Fichiers CSV MySQL (deja partages sur Drive)
+sources/mysql/data/input/*.csv
+sources/mysql/data/staging/*.csv
+
+# Redis dumps
+*.rdb
