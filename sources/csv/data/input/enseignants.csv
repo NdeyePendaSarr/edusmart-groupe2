@@ -1,0 +1,102 @@
+teacher_code;nom;prenom;sexe;date_naissance;telephone;email;specialite;grade;date_embauche;statut
+TEACH-001;Lévêque;Julien;H;1997-04-22;+33 2 98 57 77 41;audreychretien@example.net;Communication;Maître de Conférences;2020-04-21;Vacataire
+TEACH-002;Besson;Gabriel;H;1988-04-29;+33 3 84 43 40 09;david81@example.org;Gestion;Maître de Conférences;2020-04-29;Permanent
+TEACH-003;Grégoire;Thibaut;H;1965-08-16;0380059944;remyriviere@example.net;Chimie;Maître de Conférences;2020-08-15;Permanent
+TEACH-004;Schmitt;Thérèse;F;1988-12-19;0298458241;yraymond@example.org;Génie Logiciel;Maître de Conférences;2019-12-19;Permanent
+TEACH-005;Fabre;Gérard;H;1975-05-25;;wdelaunay@example.com;Finance;Maître de Conférences;2018-05-24;Contractuel
+TEACH-006;Alexandre;Isaac;H;1975-11-08;03 71 20 15 28;fgimenez@example.org;Chimie;Assistant;2024-11-07;Permanent
+TEACH-007;Charrier;Aurore;F;1971-08-08;0376168838;alfredchauveau@example.com;Architecture;Maître de Conférences;2019-08-08;Vacataire
+TEACH-008;Petit;Colette;F;1990-06-19;04 86 07 47 80;jacquesbesson@example.org;Génie Logiciel;Maître de Conférences;2019-06-19;Permanent
+TEACH-009;Besson;Yves-Timothée;H;1967-09-29;+33 1 41 56 74 93;jacques73@example.com;Cybersécurité;Maître Assistant;2022-09-28;Vacataire
+TEACH-010;Rocher;Louis;H;1999-09-13;;aimeleconte@example.com;Génie Électrique;Maître Assistant;2022-09-12;Vacataire
+TEACH-011;Ollivier;William;H;1970-04-28;;toussaintrene@example.net;Biologie;Maître Assistant;2021-04-27;Vacataire
+TEACH-012;Langlois;Paulette;F;1990-04-28;;colette98@example.net;Biologie;Maître Assistant;2023-04-28;Permanent
+TEACH-013;Pruvost;Gérard;H;1965-09-28;0467654312;couturierxavier@example.org;Physique;Maître Assistant;2023-09-28;Permanent
+TEACH-014;Germain;Grégoire;H;1970-12-09;03 29 35 33 84;rene40@example.org;Réseaux Informatiques;Assistant;2025-12-08;Contractuel
+TEACH-015;Foucher;Charlotte;F;1981-09-24;02 76 16 61 56;qguerin@example.org;Finance;Maître de Conférences;2020-09-23;Contractuel
+TEACH-016;Pottier;Noémi;F;1966-06-09;03 82 57 12 93;vasseurmadeleine@example.net;Réseaux Informatiques;Maître de Conférences;2019-06-09;Contractuel
+TEACH-017;Legrand;Isabelle;F;1969-03-20;+33 (0)3 80 77 23 62;bruneauhelene@example.org;Génie Électrique;Maître Assistant;2023-03-20;Vacataire
+TEACH-018;Carpentier;André;H;1979-09-05;+33 8 09 12 76 40;morenoaurelie@example.com;Développement Web;Maître de Conférences;2017-09-04;Contractuel
+TEACH-019;Dupuy;Roland;H;1986-10-31;0699626761;;Mathématiques;Assistant;2025-10-30;Contractuel
+TEACH-020;Toussaint;Zoé;F;1967-04-21;02 52 96 89 69;constancebarre@example.com;Intelligence Artificielle;Professeur Titulaire;2016-04-20;Vacataire
+TEACH-021;Pages;Capucine;F;1974-02-20;+33 5 36 66 81 08;zalves@example.org;Génie Électrique;Maître de Conférences;2019-02-20;Contractuel
+TEACH-022;Hervé;Arthur;H;1974-06-14;05 87 94 61 56;philippefontaine@example.net;Finance;Assistant;2026-06-14;Vacataire
+TEACH-023;Pelletier;Jeanne;F;1967-06-13;+33 (0)2 53 52 61 93;penelope62@example.net;Base de Données;Maître Assistant;2022-06-12;Vacataire
+TEACH-024;Lesage;Alexandria;F;1982-01-05;;josettebreton@example.net;Génie Logiciel;Professeur Titulaire;2016-01-05;Vacataire
+TEACH-025;Hamel;Lucas;H;1965-04-17;+33 1 88 32 06 85;audreytanguy@example.net;Développement Web;Maître de Conférences;2019-04-17;Vacataire
+TEACH-026;Petitjean;Anouk;F;1986-01-01;+33 4 69 20 58 91;jtoussaint@example.net;Génie Électrique;Maître de Conférences;2019-01-01;Vacataire
+TEACH-027;Bodin;Adélaïde;F;1970-08-26;+33 3 22 87 09 65;colinemile@example.net;Économie;Professeur Titulaire;2016-08-25;Vacataire
+TEACH-028;Perez;Philippe;H;1968-03-08;0632639073;qgomez@example.com;Communication;Professeur Titulaire;2016-03-08;Vacataire
+TEACH-029;Cousin;Patrick;H;1995-01-02;03 90 06 80 81;alexandreaubry@example.com;Mathématiques;Maître Assistant;2023-01-02;Permanent
+TEACH-030;Le Roux;Franck;H;1996-03-17;+33 (0)3 65 75 65 55;adelecoulon@example.org;Cybersécurité;Assistant;2026-03-17;Vacataire
+TEACH-031;Henry;Andrée;F;1963-05-08;0359788513;michelleleroux@example.com;Intelligence Artificielle;Maître de Conférences;2019-05-08;Permanent
+TEACH-032;Lucas;Corinne-Cécile;F;1986-03-21;+33 (0)4 23 56 40 43;tboutin@example.org;Développement Web;Chargé de Cours;2024-03-20;Contractuel
+TEACH-033;Lacombe;Pauline;F;1963-05-29;+33 4 92 61 81 49;bgilbert@example.com;Architecture;Maître de Conférences;2020-05-28;Contractuel
+TEACH-034;Seguin;Margaret;F;1990-01-08;0497916928;jmace@example.net;Physique;Maître de Conférences;2019-01-08;Contractuel
+TEACH-035;Albert;Diane;F;1993-03-13;+33 3 44 77 54 72;sophie61@example.net;Économie;Assistant;2024-03-12;Contractuel
+TEACH-036;Benoit;Frédérique;F;1966-06-19;+33 1 82 42 65 98;stephanietexier@example.net;Économie;Assistant;2024-06-18;Permanent
+TEACH-037;Gérard;Jeannine;F;2000-07-07;+33 (0)2 97 20 91 89;adriennegallet@example.net;Systèmes Informatiques;Assistant;2024-07-07;Vacataire
+TEACH-038;Lévy;Grégoire;H;1974-02-12;+33 4 22 40 96 76;xavierdelaunay@example.com;Économie;Chercheur;2016-02-12;Permanent
+TEACH-039;Joubert;Jérôme-Matthieu;H;1986-02-14;06 61 98 75 07;;Finance;Maître Assistant;2022-02-14;Vacataire
+TEACH-040;Ramos;Richard;H;1996-05-30;05 81 17 06 32;marcellejoubert@example.com;Développement Web;Maître de Conférences;2020-05-30;Vacataire
+TEACH-041;Bruneau;Alfred;H;1972-03-17;+33 2 31 39 28 00;xlamy@example.com;Droit;Maître de Conférences;2019-03-17;Contractuel
+TEACH-042;Dupont;Michelle;F;1968-04-15;+33 (0)7 77 97 02 99;legrandclaude@example.org;Finance;Maître Assistant;2021-04-15;Vacataire
+TEACH-043;Andre;Gabriel;H;1969-10-03;+33 (0)3 76 36 49 46;rogerdiane@example.org;Développement Web;Chargé de Cours;2024-10-02;Permanent
+TEACH-044;Bourdon;Laurence;F;1989-01-28;+33 (0)2 44 72 21 84;slabbe@example.org;Médecine;Chargé de Cours;2026-01-28;Contractuel
+TEACH-045;Delannoy;Lorraine;F;1964-03-03;+33 5 40 38 06 14;aimee45@example.com;Chimie;Maître Assistant;2023-03-03;Permanent
+TEACH-046;De Oliveira;Marianne;F;1966-02-06;03 76 57 04 14;corinne15@example.net;Génie Civil;Maître Assistant;2022-02-06;Vacataire
+TEACH-047;Marques;Margot;F;1980-05-28;07 75 35 33 80;audreysanchez@example.net;Physique;Professeur Titulaire;2021-05-28;Contractuel
+TEACH-048;Gérard;Élodie;F;1989-04-20;+33 (0)6 34 23 81 76;imbertthibault@example.net;Économie;Assistant;2025-04-20;Permanent
+TEACH-049;Raynaud;Henri;H;1982-07-09;0769993554;flouis@example.com;Intelligence Artificielle;Maître Assistant;2021-07-08;Contractuel
+TEACH-050;Bailly;Théophile;H;1998-10-03;+33 4 70 60 01 80;margot97@example.net;Intelligence Artificielle;Maître Assistant;2023-10-03;Permanent
+TEACH-051;Clément;Dorothée;F;1973-09-10;0321098310;lorraine70@example.net;Génie Électrique;Maître de Conférences;2020-09-09;Permanent
+TEACH-052;Noël;Frédéric;H;1990-04-12;01 41 81 80 71;egimenez@example.com;Pharmacie;Assistant;2026-04-12;Vacataire
+TEACH-053;Robert;Théodore;H;1969-01-28;07 35 36 91 29;gbertrand@example.net;Droit;;2020-01-28;Contractuel
+TEACH-054;Petit;Benoît;H;1978-01-05;+33 3 86 29 24 33;gabrielle18@example.net;Gestion;Chargé de Cours;2026-01-05;Permanent
+TEACH-055;Simon;Christiane;F;2000-06-27;+33 1 80 89 13 12;frederiquebouchet@example.net;Droit;Assistant;2024-06-27;Vacataire
+TEACH-056;Martin;Véronique;F;1995-08-10;0180215880;alexandriemendes@example.com;Réseaux Informatiques;Maître de Conférences;2018-08-09;Contractuel
+TEACH-057;Guibert;Joséphine;F;1967-08-25;+33 (0)2 72 11 87 26;bourdonmargaux@example.net;Communication;Chargé de Cours;2024-08-24;Vacataire
+TEACH-058;Vidal;François;H;1963-03-19;+33 6 99 29 36 81;groussel@example.org;Communication;;2023-03-19;Contractuel
+TEACH-059;Perrin;Margaud;F;1988-04-10;03 24 42 78 82;marine15@example.org;Cybersécurité;Maître de Conférences;2020-04-10;Permanent
+TEACH-060;Jacques;Léon;H;1993-02-12;+33 3 79 67 06 85;huguesbouvier@example.net;Mathématiques;Maître de Conférences;2018-02-12;Contractuel
+TEACH-061;Lelièvre;Olivier;H;1982-02-11;+33 5 35 76 37 41;jules04@example.net;Intelligence Artificielle;Maître de Conférences;2020-02-11;Vacataire
+TEACH-062;Cohen;Louis;H;1996-02-16;0777698655;odettejulien@example.net;Génie Électrique;Maître de Conférences;2019-02-15;Permanent
+TEACH-063;Pages;Emmanuelle;F;1993-07-29;+33 (0)5 58 62 79 97;zachariemonnier@example.net;Architecture;Maître de Conférences;2020-07-28;Vacataire
+TEACH-064;Sauvage;Émilie;F;1968-11-12;+33 4 86 21 54 41;denisklein@example.org;Base de Données;Maître de Conférences;2019-11-12;Vacataire
+TEACH-065;Bourgeois;Martin-Vincent;H;1987-10-28;03 27 98 00 60;thomasjoubert@example.com;Génie Civil;Maître Assistant;2022-10-27;Vacataire
+TEACH-066;Legros;Christophe;H;1976-05-16;03 69 00 71 50;fournieramelie@example.net;Pharmacie;Assistant;2025-05-16;Permanent
+TEACH-067;David;Adrien;H;1972-06-13;0443505633;oliviemoreau@example.net;Architecture;Maître Assistant;2023-06-13;Vacataire
+TEACH-068;Richard;Alain;H;1962-09-22;0134117766;;Cybersécurité;Professeur Titulaire;2020-09-21;Contractuel
+TEACH-069;Raynaud;Anne-Virginie;F;1998-11-08;0546838604;anastasie40@example.org;Réseaux Informatiques;Maître Assistant;2022-11-08;Contractuel
+TEACH-070;Gomes;Nicolas;H;1965-04-11;0256578594;leondelannoy@example.com;Génie Électrique;Maître Assistant;2022-04-11;Vacataire
+TEACH-071;Traore;Odette;F;1957-01-28;05 96 31 74 41;lopesnathalie@example.org;Finance;Chercheur;2016-01-28;Contractuel
+TEACH-072;Da Silva;Virginie;F;1964-03-04;+33 3 66 22 40 16;capucinele-gall@example.com;Data Science;Maître Assistant;2022-03-04;Contractuel
+TEACH-073;Le Goff;Thérèse;F;1964-12-26;+33 4 81 47 15 59;honorepierre@example.net;Gestion;Maître de Conférences;2020-12-26;Contractuel
+TEACH-074;Gaudin;Henri;H;1978-08-28;+33 (0)2 49 75 02 95;tbesson@example.com;Économie;Maître Assistant;2021-08-27;Contractuel
+TEACH-075;Diallo;Adélaïde;F;1979-01-11;06 07 92 97 58;cseguin@example.com;Gestion;Assistant;2024-01-11;Permanent
+TEACH-076;Mathieu;Laetitia-Valentine;F;1967-06-15;+33 (0)4 67 34 55 35;sophieverdier@example.net;Médecine;Assistant;2026-06-14;Permanent
+TEACH-077;Chevalier;Claudine;F;1987-02-19;01 58 59 25 23;mendeschristophe@example.com;Économie;Maître Assistant;2023-02-19;Contractuel
+TEACH-078;Jacob;Laurent;H;1997-12-12;05 36 61 63 45;ubouvet@example.com;Chimie;Assistant;2025-12-12;Contractuel
+TEACH-079;Moulin;Agathe;F;1985-03-12;+33 (0)2 21 18 73 19;coulonbertrand@example.com;Architecture;Maître Assistant;2022-03-12;Permanent
+TEACH-080;Hebert;Julie;F;1987-11-14;+33 5 82 55 73 30;elodieguyon@example.net;Cybersécurité;Maître Assistant;2023-11-14;Permanent
+TEACH-081;Rocher;Nicolas;H;1972-03-10;+33 5 49 79 78 52;aurelie63@example.net;Communication;Maître Assistant;2023-03-10;Vacataire
+TEACH-082;Leroy;Gabriel;H;1987-12-02;06 99 02 83 90;chauvetchristelle@example.net;Mathématiques;Maître Assistant;2023-12-02;Vacataire
+TEACH-083;Vaillant;Jean;H;1982-11-08;+33 3 69 87 84 87;cblondel@example.org;Génie Logiciel;Maître de Conférences;2018-11-08;Vacataire
+TEACH-084;Diallo;Philippe;H;1994-06-16;+33 3 64 31 19 56;philippenicolas@example.com;Réseaux Informatiques;Maître Assistant;2021-06-15;Permanent
+TEACH-085;Bodin;Diane;F;1973-05-12;+33 (0)4 58 31 68 86;michelleguillet@example.org;Systèmes Informatiques;Maître de Conférences;2020-05-11;Contractuel
+TEACH-086;Camus;Benjamin;H;1966-06-07;0376170981;astridboutin@example.org;Génie Logiciel;Chargé de Cours;2026-06-07;Vacataire
+TEACH-087;Bigot;Étienne;H;1978-10-05;+33 (0)4 81 52 43 45;rhenry@example.net;Intelligence Artificielle;Maître de Conférences;2017-10-04;Contractuel
+TEACH-088;Robin;Philippine;F;1991-01-30;+33 1 74 86 45 69;ogilles@example.org;Architecture;Maître de Conférences;2017-01-29;Permanent
+TEACH-089;Boulanger;Daniel-Antoine;H;1974-09-19;389706122;hervedanielle@example.org;Économie;Maître de Conférences;2020-09-18;Permanent
+TEACH-090;Gaudin;Michel;H;1987-08-07;+33 6 08 03 18 94;dtessier@example.net;Systèmes Informatiques;Chercheur;2016-08-06;Contractuel
+TEACH-091;Henry;Julien;H;1990-11-17;0632164161;ndupuy@example.org;Intelligence Artificielle;Chercheur;2016-11-16;Permanent
+TEACH-092;Lenoir;Aurore;F;1980-10-28;+33 (0)1 48 33 80 96;hcollin@example.org;Développement Web;Maître de Conférences;2019-10-28;Vacataire
+TEACH-093;Martin;Zoé-Lorraine;F;1977-06-01;0250684375;legrosadele@example.org;Génie Électrique;Maître Assistant;2022-06-01;Permanent
+TEACH-094;Besson;Émilie;F;1986-12-30;02 35 12 56 89;margauxlegendre@example.com;Pharmacie;Assistant;2024-12-29;Contractuel
+TEACH-095;Durand;Maggie;F;1964-04-11;01 88 32 48 50;qmorin@example.com;Finance;Maître Assistant;2021-04-11;Vacataire
+TEACH-096;Duval;Gérard;H;1964-06-24;01 34 65 34 03;fperon@example.org;Droit;Chercheur;2016-06-24;Contractuel
+TEACH-097;Boyer;Adèle;F;1984-10-19;+33 5 56 20 23 75;eugene29@example.org;Développement Web;Chargé de Cours;2024-10-19;Contractuel
+TEACH-098;Delmas;Nathalie;F;1977-02-11;33 37 67 88 33 8;pintocelina@example.org;Data Science;Maître de Conférences;2018-02-11;Permanent
+TEACH-099;Vincent;Sébastien;H;1983-04-21;05 82 50 74 70;launaysusan@example.org;Génie Civil;Maître Assistant;2021-04-20;Contractuel
+TEACH-100;Lefort;Émilie;F;1987-08-26;0146919241;maryseantoine@example.net;Base de Données;Maître de Conférences;2019-08-26;Vacataire
+TEACH-092;Lenoir;Aurore;F;1980-10-28;+33 (0)1 48 33 80 96;hcollin@example.org;Développement Web;Maître de Conférences;2019-10-28;Vacataire

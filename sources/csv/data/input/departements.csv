@@ -1,0 +1,16 @@
+id_departement,nom_departement,responsable,budget_annuel,batiment
+1,Data,TEACH-035,,Bâtiment B
+2,Développement Data,TEACH-086,29508697.98,Annexe
+3,Data Engineering,TEACH-054,,Bâtiment A
+4,Développement Web,TEACH-064,16936819.26,
+5,Dev Web,TEACH-083,nan,Annexe
+6,Réseaux et Télécoms,TEACH-075,50421196.24,Bat. C
+7,Réseaux & Télécoms,TEACH-020,nan,Annexe
+8,Intelligence Artificielle,TEACH-027,42469935.88,Bat. C
+9,IA,TEACH-045,21643667.97,Bat. C
+10,Cybersécurité,TEACH-093,54242192.04,Batiment D
+11,cyber,TEACH-010,49854825.94,Bâtiment A
+12,Formation Générale,TEACH-079,50882641.03,Bat. C
+13,fm gene,TEACH-005,52527889.44,Annexe
+14,Cloud Computing,TEACH-010,29813387.92,Bâtiment B
+15,cloud,TEACH-058,71321438.34,Annexe
