@@ -1,0 +1,11 @@
+﻿id_classe,code_classe,nom_classe,id_filiere,annee_academique,capacite,salle,responsable
+2616a3e2-2efa-4aa4-9aff-da4e6d3c1201,CL001,Classe 1,267ca05e-01da-4f74-90d3-c0b8b90f3d4e,2025-2026,500,Salle A0,Thibault Collin
+ac634fc0-70f5-4dee-a5fa-52c348fba81c,CL002,Classe 2,371ad933-226a-40a9-a810-162a1835caad,2025-2026,30,A1,Roland Pereira
+960ab021-835c-40b9-8e16-21e923dbada9,CL003,Classe 3,0ac4bbb8-2fed-480d-bb5c-f91aa73d51c5,2025-2026,50,Salle A2,Victoire Guillon du Diaz
+b4993e40-250f-4208-9f0f-6873b0b403ac,CL004,Classe 4,74ca850f-da4c-4aa4-aa97-69348a137cc2,2024-2025,10,Salle A3,Franck Pineau
+2273a1a4-dd6a-43f8-97de-67db2649ba4c,CL005,Classe 5,267ca05e-01da-4f74-90d3-c0b8b90f3d4e,2024/2025,500,A4,Emmanuel Bazin
+a2434dc1-0b4e-4d31-8077-9cc933fa426e,CL006,Classe 6,eddd1309-478c-406f-892f-fc661989a941,2024/2025,30,B5,Eugène Lemonnier
+a27d917d-8158-44ec-971f-88022da8bcfa,CL007,Classe 7,74ca850f-da4c-4aa4-aa97-69348a137cc2,2024/2025,50,B6,Maggie Arnaud de Renaud
+60049a33-a189-4d79-b630-3a1ab9ba06ea,CL008,Classe 8,267ca05e-01da-4f74-90d3-c0b8b90f3d4e,2024-2025,30,A7,Benoît Bailly
+ac40aeeb-e2de-4e1f-bb76-1fa0a450baf3,CL009,Classe 9,4f1644d3-6158-43d3-945e-98e1a69a269f,2024/2025,10,Salle A8,Stéphane Rodrigues
+dd98f8e2-14a4-4515-adbc-4f5237db22cd,CL010,Classe 10,f72686ca-c847-49da-b614-4980c9f5bb5b,2024-2025,50,B9,Sophie Parent Le Adam

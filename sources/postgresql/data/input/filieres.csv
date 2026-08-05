@@ -1,0 +1,14 @@
+﻿id_filiere,code_filiere,nom_filiere,departement,niveau,duree_mois,cout_total,statut
+74ca850f-da4c-4aa4-aa97-69348a137cc2,DD003,Développement Data,Data & IA,Doctorat,24,900000.0,ACTIF
+267ca05e-01da-4f74-90d3-c0b8b90f3d4e,DW002,Développement Web,Développement,Master,24,750000.0,ACTIF
+b52c76f5-ed99-479d-a99d-532d337b4cbf,DM002,Développement Mobile,Développement,Master,36,850000.0,ACTIF
+669b49d1-c294-4129-93e0-6bcac38918b8,CS003,Cybersécurité,Sécurité,Doctorat,24,950000.0,ACTIF
+eddd1309-478c-406f-892f-fc661989a941,CD002,Cloud & DevOps,Infrastructure,Master,36,1000000.0,ACTIF
+e5d3834c-4eab-46d6-b63f-66303f601eca,UX001,UX/UI Design,Design,Licence,36,700000.0,ACTIF
+371ad933-226a-40a9-a810-162a1835caad,GP002,Gestion de Projet IT,Management,Master,36,650000.0,ACTIF
+a5751d45-fd0d-4e94-a5fa-ddbafd9c02c6,IA003,Intelligence Artificielle,Data & IA,Doctorat,12,1500000.0,ACTIF
+36d12ed6-d19b-482c-b20d-8f03fd697784,IA002,IA,Data & IA,Master,12,190000.0,ACTIF
+9ce0362a-1ef1-42ce-a961-2b37ac72528d,INFO01,Informatique,Sciences et Technologies,Licence,36,1500000.0,ACTIF
+4f1644d3-6158-43d3-945e-98e1a69a269f,GEST02,Gestion,Sciences Economiques,Licence,36,1200000.0,ACTIF
+34e038e7-58e1-4549-aa88-566a2c485ba1,IA01,Ingénierie IA,Informatique,Licence,36,500000.0,INACTIF
+f377f369-2bec-4aab-b80d-2295ef8e86c4,IA02,IA Advanced,Informatique,Master,120,1850000.0,INACTIF
