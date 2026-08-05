@@ -10,7 +10,7 @@ DB_CONFIG = {
     "host": "localhost",
     "database": "edusmart_academic",
     "user": "postgres",
-    "password": "",
+    "password": "Pensarr12",
     "port": 5432
 }
 

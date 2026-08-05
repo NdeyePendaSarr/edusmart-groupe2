@@ -5,7 +5,7 @@ DB_CONFIG = {
     "host": "localhost",
     "database": "edusmart_academic",
     "user": "postgres",
-    "password": "",
+    "password": "Pensarr12",
     "port": 5432
 }
 
@@ -42,11 +42,7 @@ def create_tables():
         annee_academique VARCHAR(20),
         capacite INTEGER,
         salle VARCHAR(50),
-        responsable VARCHAR(100),
-
-        CONSTRAINT fk_classe_filiere
-        FOREIGN KEY(id_filiere)
-        REFERENCES filieres(id_filiere)
+        responsable VARCHAR(100)
     );
 
 
@@ -75,15 +71,7 @@ def create_tables():
         statut VARCHAR(30),
         type_inscription VARCHAR(30),
         bourse BOOLEAN,
-        reduction NUMERIC(5,2),
-
-        CONSTRAINT fk_inscription_etudiant
-        FOREIGN KEY(id_etudiant)
-        REFERENCES etudiants(id_etudiant),
-
-        CONSTRAINT fk_inscription_classe
-        FOREIGN KEY(id_classe)
-        REFERENCES classes(id_classe)
+        reduction NUMERIC(5,2)
     );
 
 
@@ -95,11 +83,7 @@ def create_tables():
         montant NUMERIC(12,2),
         mode_paiement VARCHAR(50),
         statut VARCHAR(30),
-        tranche VARCHAR(20),
-
-        CONSTRAINT fk_paiement_inscription
-        FOREIGN KEY(id_inscription)
-        REFERENCES inscriptions(id_inscription)
+        tranche VARCHAR(20)
     );
     """)
 
