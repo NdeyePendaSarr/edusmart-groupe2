@@ -7,7 +7,7 @@ def bulk_insert_jsonl():
     db = client["edusmart_logs"]
     collection = db["events"]
     
-    file_path = "edusmart_mobile_events.jsonl"
+    file_path = "data/input/events.jsonl"
     batch_size = 5000
     buffer = []
     total_inserted = 0

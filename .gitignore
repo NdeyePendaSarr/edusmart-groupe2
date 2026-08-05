@@ -107,10 +107,26 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+
+# ==========================
+# Bases de données
+# ==========================
+
 # Redis
 *.rdb
 *.aof
 *.pid
+
+# MongoDB dumps
+*.archive
+*.bson
+*.gz
+sources/mongodb/backup/
+
+# SQL dumps
+*.sql
+*.sql.gz
+
 
 # RabbitMQ
 mnesia/
@@ -120,10 +136,15 @@ rabbitmq-data/
 # ActiveMQ
 activemq-data/
 
+
 # SageMath
 *.sage.py
 
-# Environments
+
+# ==========================
+# Environnements Python
+# ==========================
+
 .env
 .envrc
 .venv
@@ -133,12 +154,22 @@ ENV/
 env.bak/
 venv.bak/
 
+
+# IDE
+.idea/
+.vscode/
+
 # Spyder
 .spyderproject
 .spyproject
 
 # Rope
 .ropeproject
+
+
+# ==========================
+# Documentation / outils
+# ==========================
 
 # mkdocs
 /site
@@ -157,11 +188,6 @@ dmypy.json
 # Cython
 cython_debug/
 
-# PyCharm
-.idea/
-
-# VS Code
-.vscode/
 
 # Abstra
 .abstra/
@@ -169,16 +195,20 @@ cython_debug/
 # Temporary files
 tempCodeRunnerFile.py
 
+
 # Ruff
 .ruff_cache/
 
+
 # PyPI
 .pypirc
+
 
 # Marimo
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
 
 # Streamlit
 .streamlit/secrets.toml
@@ -193,18 +223,19 @@ sources/mongodb/data/input/*.jsonl
 
 # Logs projet
 logs/
+sources/**/logs/
+
 
 # Données générées volumineuses
 data/
 datasets/
 *.parquet
 
-# Dumps bases de données
-*.sql.gz
 
 # Fichiers temporaires
 tmp/
 temp/
+
 
 # Docker volumes
 docker-volumes/
